@@ -1,0 +1,31 @@
+.link:hover{
+    font-weight: 500 !important;
+}
+.height{
+    height: 500px;
+}
+
+
+
+$theme-colors: (
+    "blue":blue,
+    "white":white,
+    "teal":teal,
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss'
